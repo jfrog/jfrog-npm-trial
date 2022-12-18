@@ -2,19 +2,12 @@
   "name": "jfrog-npm-trial",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jfrog/jfrog-npm-trial.git"
   },
   "author": "lidorv",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jfrog/jfrog-npm-trial/issues"
-  },
   "homepage": "https://github.com/jfrog/jfrog-npm-trial#readme",
   "dependencies": {
     "jfrog-trial-sum-example": "1.0.0"
